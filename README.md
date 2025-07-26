@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-razasoomro&label=Profile%20views&color=0e75b6&style=flat" alt="ali-razasoomro" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,DSA**
+- 🌱 I’m currently learning **JavaScript,DSA,Cloud Computing**
 
-- 💬 Ask me about **Java,C++,Wordpress**
+- 💬 Ask me about **Java,C++,Wordpress,REACT,NODE,WEB**
 
-- 📫 How to reach me **alirazasoomro251@gmail.com**
+- 📫 How to reach me **alirazasoomro031@gmail.com**
 
 - ⚡ Fun fact **The best thing in the world is Tea😍**
 
